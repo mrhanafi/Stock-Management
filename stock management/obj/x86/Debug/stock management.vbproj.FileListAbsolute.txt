@@ -1,0 +1,15 @@
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\stokdb.accdb
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\stock management.exe.config
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\stock management.exe
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\stock management.pdb
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\stock management.xml
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock management.vbprojResolveAssemblyReference.cache
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock_management.Form1.resources
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock_management.Resources.resources
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock management.vbproj.GenerateResource.Cache
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock management.exe
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock management.xml
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock management.pdb
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\MetroFramework.dll
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Napang\documents\visual studio 2010\Projects\stock management\stock management\obj\x86\Debug\stock_management.register1.resources
